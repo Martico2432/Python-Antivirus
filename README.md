@@ -1,4 +1,4 @@
-# [Python antivirus v1.0]
+# [Python antivirus v1.1]
 ================
 
 ## Description
@@ -49,3 +49,5 @@ v1.0
 * Realeased
 * Added main.py
 * Added VirusHashes.txt
+v1.1
+* Added 1 hash to VirusHashes.txt
