@@ -8,7 +8,7 @@
 
 ### Prerequisites
 
-* [You will need: python, tqdm, hashlib and mmap]
+* [You will need: python, tqdm and mmap]
 
 ### Installation
 
