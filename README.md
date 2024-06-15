@@ -7,8 +7,9 @@
 ## Getting Started
 
 ### Prerequisites
-
-* [You will need: python, tqdm and mmap]
+You will need:
+* Python
+* Tqdm (Python library)
 
 ### Installation
 
